@@ -1,0 +1,74 @@
+{
+    "Admin": {},
+    "CHROMEOS": {
+        "LA": "CHROMEOS 2.1.5 Chrome_OS 2.1.5",
+        "UA": "Line/6.5.1"
+    },
+    "CLOVAFRIENDS": {
+        "LA": "CLOVAFRIENDS 5.5.1 WINDOW v1.5 9.3.2",
+        "UA": "Line/5.5.1"
+    },
+    "Creator": "u4d2f1c2fbee16358f12c749f406cfbf0",
+    "DESKTOPMAC": {
+        "LA": "DESKTOPMAC 4.5.0 MAC 4.5.0",
+        "UA": "Line/5.5.1"
+    },
+    "DESKTOPWIN": {
+        "LA": "DESKTOPWIN 5.5.1 Window 5.5.1",
+        "UA": "Line/5.5.1"
+    },
+    "IOS": {
+        "LA": "IOSIPAD 6.9 IPHONE 6.9",
+        "UA": "Line/5.5.1"
+    },
+    "SaveToken": "",
+    "SaveToken1": "",
+    "SaveToken1Mid": "",
+    "WIN10": {
+        "LA": "WIN10 5.5.1 WINDOW v1.5 10.3.2",
+        "UA": "Line/5.5.1"
+    },
+    "assist": {
+        "u0cdf1b502537ede11b415d51eb73341b": true,
+        "u32c67bd831768491511a156f069685fb": true,
+        "u3b88b95f03b893aee7485c12c9e799e1": true,
+        "u413d3684de07f6f6ad3e1f99ccd39407": true,
+        "u5928a5946eb3df0590977f9eebbf36a1": true,
+        "u6e5ceb0754ae8774ffe675066de74877": true,
+        "u823e7017f2e690d2192942282332dda7": true,
+        "ubf77402221def3a0c512e1b78926abe1": true,
+        "uc0aac4eae8ff0b58962ff19a1bf0a8c1": true
+    },
+    "authToken": "Eve2ETEeKCSxPjWJUtT0.ts8Cl77Hy1JXlhsFqgZ78a.+43vjlubKANoUISdI83/P1at3WcszGbARKoJ4r9dT08=",
+    "authTokenMid": "u4d2f1c2fbee16358f12c749f406cfbf0",
+    "fino1": "EvPKOA1ZsutqNL7g1kn1.WkRe6UJ+c1Iwl+gAg+cOWq.NlBmjrly0KoYNUWJ2rALPXCgd+6Ljs06TgxD5MgJrDU=",
+    "fino1Mid": "uc0aac4eae8ff0b58962ff19a1bf0a8c1",
+    "fino2": "EvPDkMsBMRWWyYLvIkH1.wsILLg6Z3WwqL3/E6782Oq.JlANQVM5j/zasIcEfNyjPDOEx9VgSIpIozKWL6RjWeY=",
+    "fino2Mid": "u5928a5946eb3df0590977f9eebbf36a1",
+    "fino3": "EvzhrIkgLqSuvxwyYyl7.GJ5Wf+lMKnizkuiOiZlDPW.EmmMrsXCcVLbKjJcXf1y97dqhoV8Bxd3GNz3v5VaQLM=",
+    "fino3Mid": "u823e7017f2e690d2192942282332dda7",
+    "fino4": "EvlHjEGX53cDRPbgUPH1.o4I5xWo4K67NsfWsYEEz4q.Jrz5GNmwg65LnSVXBPKZVwf6GARyqSeec1gbW6hJR14=",
+    "fino4Mid": "u3b88b95f03b893aee7485c12c9e799e1",
+    "fino5": "EvfyMZZ5ck2MWnaFEhp1.V3DaiIhE86dfeUg3IsAR4q.uWJixhn3HDS6pqWKgSqL4bQ9f2CuKhNxH1cLgOEJg2s=",
+    "fino5Mid": "ubf77402221def3a0c512e1b78926abe1",
+    "fino6": "",
+    "fino6Mid": "",
+    "fino7": "",
+    "fino7Mid": "",
+    "fino88": "",
+    "fino8Mid": "",
+    "fino9": "",
+    "fino9Mid": "",
+    "kang": "EwOMmIiSdrgeHNpM5gsb.mSz72df2HjfrgHvVbPAf/W.3HJwaSM87txwprZrsgkJewthXcQpFgmR04NY1cgzGyA=",
+    "kangMid": "u32c67bd831768491511a156f069685fb",
+    "kicker1": "EvbbN9DkTi6e5Zpmm7H7.qt02Hn4h9VATpH/zZnoubW.+Wh4jPdQXbClGUwKZCJA3obtvefBDHzVAuzg9Z8kDc0=",
+    "kicker1Mid": "u413d3684de07f6f6ad3e1f99ccd39407",
+    "kicker2": "Ev93smDvwLlKJW6Kox1b.dn8Bucu37EeBqv1r63m0gW.RZOJoNFAbWj7tVWlq42jDVqdJcvZ8pasjV8zLuMKeq4=",
+    "kicker2Mid": "u0cdf1b502537ede11b415d51eb73341b",
+    "kicker3": "EvfCM3jCm7XjqhwKcmN7.BLZRb1sUH3t+5NugBEDiDW.euy3wEie8XSt3pkN0zUuSRBo68YE+y8F07IRvzhM4vc=",
+    "kicker3Mid": "u6e5ceb0754ae8774ffe675066de74877",
+    "kicker4": "",
+    "kicker4Mid": "",
+    "kicker5": "",
+    "kicker5Mid": ""
+}

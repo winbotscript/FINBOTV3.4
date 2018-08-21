@@ -1,0 +1,22 @@
+{
+    "Admin": {
+        "u4d2f1c2fbee16358f12c749f406cfbf0": true,
+        "uac4e0127e4e1a4e9ce7af0eeac27efb5": true,
+        "ub4324e1584145571d7e1b566bbfcf6bd": true
+    },
+    "ClientAuth": {
+        "auth": {},
+        "clientMid": {}
+    },
+    "Creator": "u4d2f1c2fbee16358f12c749f406cfbf0",
+    "Mid": "ubf77402221def3a0c512e1b78926abe1",
+    "Token": "EvcVlSiS9cFwfVDeE0R1.V3DaiIhE86dfeUg3IsAR4q.uQq+HGZpZYTSg9EXshl34IBp/fleNaCrDawswZZqaNg=",
+    "Token1": "",
+    "Token1Mid": "",
+    "TokenMid": "u413d3684de07f6f6ad3e1f99ccd39407",
+    "assist": {},
+    "wClientAuth": {
+        "auth": {},
+        "clientMid": {}
+    }
+}
